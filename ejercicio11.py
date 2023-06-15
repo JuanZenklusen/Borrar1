@@ -26,4 +26,4 @@ if n1 % 2 == 0:
 else:
   print('El numero es impar')
 
-#comentario de pueba
+#comentario de pueba..
